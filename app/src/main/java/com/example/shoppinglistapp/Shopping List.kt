@@ -148,3 +148,4 @@ fun ShoppingListItem(
         Text(text = item.name, modifier = Modifier.padding(8.dp))
     }
 }
+/*TODO: Also display the quantity*/
